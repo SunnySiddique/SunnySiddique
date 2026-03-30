@@ -110,37 +110,20 @@
 
 <!-- Snake Contribution Animation -->
 ## 📈 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunnySiddique/SunnySiddique/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunnySiddique/SunnySiddique/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SunnySiddique/SunnySiddique/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</div>
-
-> ⚙️ **Setup required:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your repo to generate the snake animation. See setup steps below.
-
-<br/>
-
----
-
-<!-- 3D Contribution Calendar -->
-## 🗓️ 3D Contribution Calendar
-
-<div align="center">
-  <a href="https://skyline.github.com/SunnySiddique/2024" target="_blank">
-    <img src="https://skyline.github.com/SunnySiddique/2024.png" alt="GitHub Skyline 2024" width="80%" style="border-radius: 12px;"/>
-  </a>
-</div>
-
-<div align="center">
-
-[![2024 Skyline](https://img.shields.io/badge/View%20Interactive%203D%20Skyline%20%E2%80%94%202024-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/SunnySiddique/2024)
-&nbsp;
-[![2023 Skyline](https://img.shields.io/badge/View%20Interactive%203D%20Skyline%20%E2%80%94%202023-7c5cbf?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/SunnySiddique/2023)
-
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <br/>
 
@@ -199,46 +182,3 @@ const sunny = {
 <div align="center">
   <i>✨ "Build things that matter" — Sunny Siddique</i>
 </div>
-
----
-
-<!-- Snake Setup Instructions (remove this section after setup) -->
-<details>
-<summary>⚙️ Snake Animation Setup (one-time)</summary>
-
-1. Go to your profile repo: `github.com/SunnySiddique/SunnySiddique`
-2. Create the file `.github/workflows/snake.yml` with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to **Settings → Actions → General** → set Workflow permissions to **Read and write**
-4. Run the workflow manually once from the **Actions** tab
-5. The snake SVGs will be generated in the `output` branch automatically every day
-
-</details>
