@@ -1,24 +1,244 @@
-# 💫 About Me:
-Hi there! 👋 I'm Sunny Siddique, a passionate frontend developer 💻 with expertise in creating dynamic and visually engaging web applications. 🚀<br>I specialize in technologies like HTML5 🌐, CSS3 🎨, Tailwind CSS 🌀, React.js ⚛️, JavaScript 📜, Framer Motion 🎥, MUI 🖌️, Ant Design 🏗️, Firebase 🔥, and more.<br><br>My work blends design and functionality to create seamless user experiences ✨, with a focus on performance, accessibility, and responsiveness. 🖥️📱<br>I enjoy experimenting with animations, smooth transitions, and interactive elements to bring web pages to life. 🎭<br>Currently, I'm exploring the power of React and the flexibility of Tailwind CSS, as well as integrating modern libraries like Framer Motion and AOS Animation to enhance user engagement. 🎯<br><br>Feel free to check out my repositories 🗂️ where I showcase projects that demonstrate my skills and passion for frontend development. 🌟<br><br>
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sunny%20Siddique&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=a78bfa" width="100%"/>
+</div>
 
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%2B+Node.js+Specialist;PostgreSQL+%7C+Supabase+%7C+Neon;Building+AI-Powered+Web+Apps;Clean+UI+%2B+Reliable+APIs+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rabby.sanny.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/web-sunny) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DevsunnyS) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SunnySiddique&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SunnySiddique&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySiddique&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SunnySiddique&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SunnySiddique&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- About Me -->
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+<br/>
+
+🚀 &nbsp;I'm a **Full Stack Developer** specializing in **Next.js** and **Node.js**
+
+🗄️ &nbsp;Experienced with **PostgreSQL**, **Supabase**, and **Neon** for scalable database design
+
+🎨 &nbsp;I focus on **clean UI**, **reliable APIs**, and **secure authentication**
+
+🤖 &nbsp;I integrate **AI-driven features** to build smarter, more dynamic user experiences
+
+🌱 &nbsp;Currently exploring **edge computing** and **serverless architecture**
+
+💬 &nbsp;Ask me about **Next.js**, **Node.js**, **REST APIs**, or **database design**
+
+⚡ &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed 😄
+
+<br/><br/>
+
+---
+
+<!-- What I'm Working On -->
+## 🔭 What I'm Working On
+
+| Project | Stack | Status |
+|---|---|---|
+| 🌐 AI-powered web app | Next.js, OpenAI, Supabase | 🟢 In Progress |
+| 🔐 Auth system boilerplate | Node.js, PostgreSQL, JWT | 🟡 Planning |
+| 📦 Open source component library | React, TypeScript | 🔵 Ideation |
+
+<br/>
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
+
+**AI & Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br/>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SunnySiddique&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=86400" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySiddique&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=86400" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SunnySiddique&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+</div>
+
+<br/>
+
+---
+
+<!-- Snake Contribution Animation -->
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunnySiddique/SunnySiddique/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunnySiddique/SunnySiddique/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SunnySiddique/SunnySiddique/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+> ⚙️ **Setup required:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your repo to generate the snake animation. See setup steps below.
+
+<br/>
+
+---
+
+<!-- 3D Contribution Calendar -->
+## 🗓️ 3D Contribution Calendar
+
+<div align="center">
+  <a href="https://skyline.github.com/SunnySiddique/2024" target="_blank">
+    <img src="https://skyline.github.com/SunnySiddique/2024.png" alt="GitHub Skyline 2024" width="80%" style="border-radius: 12px;"/>
+  </a>
+</div>
+
+<div align="center">
+
+[![2024 Skyline](https://img.shields.io/badge/View%20Interactive%203D%20Skyline%20%E2%80%94%202024-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/SunnySiddique/2024)
+&nbsp;
+[![2023 Skyline](https://img.shields.io/badge/View%20Interactive%203D%20Skyline%20%E2%80%94%202023-7c5cbf?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/SunnySiddique/2023)
+
+</div>
+
+<br/>
+
+---
+
+<!-- Fun Facts -->
+## ⚡ Quick Facts
+
+```javascript
+const sunny = {
+  role:              "Full Stack Developer",
+  focus:             ["Next.js", "Node.js", "AI Integration"],
+  databases:         ["PostgreSQL", "Supabase", "Neon", "MongoDB"],
+  superpower:        "Clean UI + Reliable APIs + Secure Auth",
+  currentlyLearning: ["Edge computing", "Serverless architecture"],
+  openTo:            ["Exciting projects", "Collaborations", "New challenges"],
+  motto:             "Build things that matter 🚀"
+};
+```
+
+<br/>
+
+---
+
+<!-- Connect -->
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/SunnySiddique">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/SunnySiddique">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SunnySiddique&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <i>✨ "Build things that matter" — Sunny Siddique</i>
+</div>
+
+---
+
+<!-- Snake Setup Instructions (remove this section after setup) -->
+<details>
+<summary>⚙️ Snake Animation Setup (one-time)</summary>
+
+1. Go to your profile repo: `github.com/SunnySiddique/SunnySiddique`
+2. Create the file `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Settings → Actions → General** → set Workflow permissions to **Read and write**
+4. Run the workflow manually once from the **Actions** tab
+5. The snake SVGs will be generated in the `output` branch automatically every day
+
+</details>
