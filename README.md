@@ -42,11 +42,11 @@
 <!-- What I'm Working On -->
 ## 🔭 What I'm Working On
 
+
 | Project | Stack | Status |
 |---|---|---|
-| 🌐 AI-powered web app | Next.js, OpenAI, Supabase | 🟢 In Progress |
-| 🔐 Auth system boilerplate | Node.js, PostgreSQL, JWT | 🟡 Planning |
-| 📦 Open source component library | React, TypeScript | 🔵 Ideation |
+| 🧠 Problem Solving (LeetCode) | DSA, Python / JavaScript | 🟢 Primary Focus |
+| 🤖 AI Resume & Cover Letter Coach | Next.js, OpenAI, Supabase | 🟡 In Progress |
 
 <br/>
 
